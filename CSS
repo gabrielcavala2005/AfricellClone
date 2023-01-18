@@ -1,0 +1,199 @@
+@charset "UTF-8";
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+div.formulario{
+    height:600px;
+    width: 550px;
+    background: #fff;
+}
+div.formulario .password input
+{
+    display: block;
+}
+body{
+    background: #aa3083;
+}
+div.cabecalho{
+    background-color: #881e66;
+    height:50px;
+    box-shadow: 1px 2px 222px rgba(0,0,0,0.5);
+}
+div.cabecalho ul li strong{
+     font-weight: normal;
+     color: #fff;
+
+}
+div.cabecalho button{
+    background: none;
+    border: 1px solid white;
+    border-radius:7px;
+    padding: 6px;
+    color: #fff;
+    width:67px;
+    margin: 5px;
+}
+
+div.cabecalho .Flex1 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top:-35px;
+    margin-left: 100px;
+}
+div.cabecalho ul li{
+    list-style: none;
+    display: flex;
+    justify-content: baseline;
+    margin: 5px;
+}
+div.cab2 ul {
+    
+    height: 70px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: #a01d75;
+    
+
+}
+div.cab2 ul  li{
+    color: #fff;
+    margin: 24px;
+    border-right: 1px solid white;
+    box-sizing: border-box;
+    padding-right:10px;
+}
+div.stilob button{
+   float: right;
+   margin: 5px 15px;
+   margin-top: -45px;
+   background: none;
+   border: 1px solid white;
+   border-radius:8px;
+   padding: 5px;
+   color: #fff;
+   width:66px;
+
+   
+}
+div.formulario .tex input{
+    display:block;
+    margin: 54px -25px;
+    padding: 12px;
+    width: 170%;
+    
+}
+div.formulario h1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4b485e;
+
+}
+div.formulario .tex{
+    margin:20px 170px;
+    
+ 
+}
+div.formulario .tex strong{
+    position: absolute;
+
+
+top:190px;
+font-weight: normal;
+color: #4b485e;
+}
+div.formulario .coder input {
+    position: absolute;
+    bottom: 400px;
+    display: block;
+    width: 80px;
+    margin:5px;
+    padding: 12px;
+
+
+}
+div.formulario .coder strong{
+    font-weight: normal;
+    margin: 5px;
+    position: absolute;
+    top:185px;
+}
+div.formulario .coder strong span{
+    color: red;
+}
+div.formulario .password{
+    position: absolute;
+    top: 280px;
+    margin: 6px;
+}
+div.formulario .password strong{
+    margin: 5px;
+     
+    font-weight: normal;
+}
+div.formulario .password strong span{
+    color: red;
+}
+div.formulario .password input{
+    padding: 12px;
+    width: 500px;
+}
+div.formulario .password b{
+    color: #aa3083;
+    margin-left: 260px;
+}
+div.formulario .confirm{
+    margin: 130px 10px;
+    
+}
+div.formulario .confirm strong{
+    margin: -110px 10px;
+    color: #881e66;
+    font-weight: normal
+}
+div.formulario .Botao  button{
+    margin: 3px 450px;
+    padding: 12px;
+    width:80px;
+    background: #aa3083;
+    border-radius: 15%;
+    color: #fff;
+    border:none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+
+}
+div.formulario .Last strong{
+    color: #7d1c5e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+aside#D .Cla {
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    
+    color: antiquewhite;
+}
+aside#D .Cla ul li{
+    margin: 10px;
+}
+aside#D .Cla h1{
+    font-weight:normal ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
